@@ -15,12 +15,6 @@
     margin-right: 31px;
 }
 
-/* .cart-total{
-    text-align: center;
-    font-family: Poppins-SemiBold,Helvetica,Arial,sans-serif;
-    font-weight: bold;
-} */
-
 .cart-total{
     display: flex;
     align-items: flex-start;
@@ -485,8 +479,3 @@ footer{
 /* --------------responsive code------------- */
 /* ------------------------------------------ */
 
-@media(max-width:400px){
-    header{
-       background-color: red;
-    }
-}
